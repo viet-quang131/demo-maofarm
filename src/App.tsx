@@ -13,16 +13,6 @@ const App = () => {
   return (
     <div>
       <Routes>
-        <Route path="/admin" element={<LayoutAdmin />}>
-          <Route path="product" element={<AdminProduct />} />
-          <Route path="product/add" element={<AdminProductAdd />} />
-          <Route
-            path="product/:idProduct/edit"
-            element={<AdminProductEdit />}
-          />
-          {/* <Route path="user" element={<AdminUser />} /> */}
-          
-        </Route>
         <Route
             path="/"
             element={<Page2 />}
