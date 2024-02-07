@@ -1,0 +1,21 @@
+{
+  "products": [
+    {
+      "name": "Sản phẩm 1",
+      "price": 100,
+      "id": 1,
+      "image": "blob:http://localhost:5173/6f75fc46-c9d3-4276-9157-da4906226460"
+    },
+    {
+      "name": "Sản phẩm 2",
+      "price": 200,
+      "id": 2
+    },
+    {
+      "name": "Sản phẩm 33",
+      "price": 3001,
+      "id": 3,
+      "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fvapa.vn%2Fwp-content%2Fuploads%2F2022%2F12%2Fanh-3d-thien-nhien.jpeg&tbnid=ySzL-DE7LWgfhM&vet=12ahUKEwjWgvHGmdaAAxVmsVYBHXp1DU0QMygBegUIARDCAQ..i&imgrefurl=https%3A%2F%2Fvapa.vn%2Fanh-thien-nhien-dep-3d%2F&docid=Yb_nS5iPTcZSvM&w=1280&h=1280&q=%E1%BA%A3nh&ved=2ahUKEwjWgvHGmdaAAxVmsVYBHXp1DU0QMygBegUIARDCAQ"
+    }
+  ]
+}
